@@ -1,0 +1,26 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Video files & media
+*.mp4
+*.avi
+*.mov
+people/
+feed/
+
+# Databases & local state
+*.db
+*.sqlite
+*.sqlite3
+
+# Model weights & binaries
+*.pt
+*.pth
+weights/
+
+# Python cache & logs
+__pycache__/
+*.pyc
+.system_generated/
